@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Aufgabensammlung.iml" filepath="$PROJECT_DIR$/Aufgabensammlung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VerboteneWoerter/VerboteneWoerter.iml" filepath="$PROJECT_DIR$/VerboteneWoerter/VerboteneWoerter.iml" />
       <module fileurl="file://$PROJECT_DIR$/durch3oder5teilbar/durch3oder5teilbar.iml" filepath="$PROJECT_DIR$/durch3oder5teilbar/durch3oder5teilbar.iml" />
       <module fileurl="file://$PROJECT_DIR$/keinesEinmaleins/keinesEinmaleins.iml" filepath="$PROJECT_DIR$/keinesEinmaleins/keinesEinmaleins.iml" />
       <module fileurl="file://$PROJECT_DIR$/months/months.iml" filepath="$PROJECT_DIR$/months/months.iml" />
