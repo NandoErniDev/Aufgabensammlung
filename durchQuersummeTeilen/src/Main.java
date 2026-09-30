@@ -8,7 +8,7 @@ public class Main{
         int zahl1 = Integer.parseInt(scanner.nextLine());
         System.out.print("Zweite Zahl: ");
         int zahl2 = Integer.parseInt(scanner.nextLine());
-        System.out.println("Z\tQ\t ZQ");
+        System.out.println("Z \tQ \t ZQ");
 
         for (; zahl1 <= zahl2; zahl1++){
 
