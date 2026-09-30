@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Aufgabensammlung.iml" filepath="$PROJECT_DIR$/Aufgabensammlung.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary/Binary.iml" filepath="$PROJECT_DIR$/Binary/Binary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quersumme/Quersumme.iml" filepath="$PROJECT_DIR$/Quersumme/Quersumme.iml" />
       <module fileurl="file://$PROJECT_DIR$/VerboteneWoerter/VerboteneWoerter.iml" filepath="$PROJECT_DIR$/VerboteneWoerter/VerboteneWoerter.iml" />
       <module fileurl="file://$PROJECT_DIR$/durch3oder5teilbar/durch3oder5teilbar.iml" filepath="$PROJECT_DIR$/durch3oder5teilbar/durch3oder5teilbar.iml" />
       <module fileurl="file://$PROJECT_DIR$/keinesEinmaleins/keinesEinmaleins.iml" filepath="$PROJECT_DIR$/keinesEinmaleins/keinesEinmaleins.iml" />
