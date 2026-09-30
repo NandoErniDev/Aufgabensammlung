@@ -3,7 +3,9 @@ void main(String[]args) {
         if (i % 3 == 0 || i % 5 == 0){
             if(i == 30){
                 System.out.print(i);
-            }else System.out.print(i + ", ");
+            }else {
+                System.out.print(i + ", ");
+            }
         }
     }
 }
